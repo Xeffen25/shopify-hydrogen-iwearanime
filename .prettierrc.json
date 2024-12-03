@@ -1,0 +1,14 @@
+{
+	"tabWidth": 4,
+	"useTabs": true,
+	"quoteProps": "consistent",
+	"printWidth": 120,
+    	"overrides": [
+		{
+			"files": "*.svg",
+			"options": {
+				"parser": "html"
+			}
+		}
+	]
+}
